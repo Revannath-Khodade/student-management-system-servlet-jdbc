@@ -136,7 +136,7 @@ Database credentials are handled using **environment variables** to avoid exposi
 
 ## 👨‍💻 Author
 
-**Revan**
+**Revannath Khodade**
 
 ---
 
